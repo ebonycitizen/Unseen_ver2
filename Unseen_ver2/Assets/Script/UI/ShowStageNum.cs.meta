@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eef41742d3d59c9458951181bf9ecd8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grayStarSprite: {fileID: 21300000, guid: 60795797626dfdf468a4b95d972376f1, type: 3}
+  - yellowStarSprite: {fileID: 21300000, guid: 9ee3bb88ede656944ad4d9c7425ab772, type: 3}
+  - redStarSprite: {fileID: 21300000, guid: 78477261222dd6443bd2faa9daf913da, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68cba462d8c55fa41943346ec93e241f, type: 3}
+  m_Name: StageTable1
+  m_EditorClassIdentifier: 
+  stageName: Stage1
+  star1: {fileID: 21300000, guid: 9ee3bb88ede656944ad4d9c7425ab772, type: 3}
+  star2: {fileID: 21300000, guid: 60795797626dfdf468a4b95d972376f1, type: 3}
+  star3: {fileID: 21300000, guid: 60795797626dfdf468a4b95d972376f1, type: 3}
+  stageDigit1: {fileID: 21300000, guid: 5c43cc690ab855b49b49acbb4fafa9a6, type: 3}
+  stageDigit2: {fileID: 21300000, guid: 68d5d564773722f4a8e7b98dc8befca9, type: 3}
+  hasClear: 0
+  deadTimes: 0
+  ita: {fileID: 2800000, guid: 1343e457531640d4ca7bb36bc0ad3408, type: 3}

@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 46ac14cf3fb683f4381cb854adb2c247
+timeCreated: 1528696210
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pressIta: {fileID: 2800000, guid: 4cdfe97987735e64a994c5a7679b22a1, type: 3}
+  - bedIta: {fileID: 2800000, guid: 37385b143b16e6f4db6be26244f20e7a, type: 3}
+  - clockIta: {fileID: 2800000, guid: 44514dde3e13af8488980599925aad5e, type: 3}
+  - floorIta: {fileID: 2800000, guid: e9c57ad31bef852488fbfa0cfe45d368, type: 3}
+  - mishinIta: {fileID: 2800000, guid: 543ce641bff85bd4f951b63dc0129551, type: 3}
+  - extraIta: {fileID: 2800000, guid: 0ff951f6ee441c340b6e824a08b13582, type: 3}
+  - tutorialIta: {fileID: 2800000, guid: 7cb03a40a4ebb36438e721544f678b87, type: 3}
+  - zeroSprite: {fileID: 21300000, guid: 85bce77fc25042c4ba3431aa78cdea56, type: 3}
+  - oneSprite: {fileID: 21300000, guid: 5c43cc690ab855b49b49acbb4fafa9a6, type: 3}
+  - twoSprite: {fileID: 21300000, guid: 62120fda620d52643abbdddeb06d6c91, type: 3}
+  - threeSprite: {fileID: 21300000, guid: 72c35079203203d42adf2387f3473dfe, type: 3}
+  - fourSprite: {fileID: 21300000, guid: 25e51a68132bb6541b3fc26a1345ef5e, type: 3}
+  - fiveSprite: {fileID: 21300000, guid: fca8d714f349da24198542947d3d6cde, type: 3}
+  - sixSprite: {fileID: 21300000, guid: 2601cc3d3e5a2834db22d631664eb34a, type: 3}
+  - sevenSprite: {fileID: 21300000, guid: 2016571fe3c6318448073bf96c03309f, type: 3}
+  - eightSprite: {fileID: 21300000, guid: 9219d63c76c43284d81fb610f5c397ef, type: 3}
+  - nineSprite: {fileID: 21300000, guid: 599de5147ea4e414181d8340196c5a05, type: 3}
+  - grayStarSprite: {fileID: 21300000, guid: 60795797626dfdf468a4b95d972376f1, type: 3}
+  - yellowStarSprite: {fileID: 21300000, guid: 9ee3bb88ede656944ad4d9c7425ab772, type: 3}
+  - redStarSprite: {instanceID: 0}
+  - clearSprite: {fileID: 21300000, guid: c536d9f284c6eea4ea8c32ab0d656441, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

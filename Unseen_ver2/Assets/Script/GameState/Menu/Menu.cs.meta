@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 67a0165a11be13649ab62bf1c6a16f84
+timeCreated: 1528960945
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectStageSprite: {fileID: 21300000, guid: d30b6a0950f814d4cbb9411bc0cb5516,
+      type: 3}
+  - howToPlaySprite: {fileID: 21300000, guid: 49f85562fb907ba4596ac0345df0a30d, type: 3}
+  - pvSprite: {fileID: 21300000, guid: fefb29971338bda4e92984eecd4aa861, type: 3}
+  - exitSprite: {fileID: 21300000, guid: 130c364faa21cea44839b4edf2ad268d, type: 3}
+  - selectStageClickSprite: {fileID: 21300000, guid: 7dc59a7f393c75849a7049359d95ff27,
+      type: 3}
+  - howToPlayClickSprite: {fileID: 21300000, guid: c1536bef7b396574fa595d6f5350f012,
+      type: 3}
+  - pvClickSprite: {fileID: 21300000, guid: d15312c53fc43b64da17ecd48ba84e9b, type: 3}
+  - exitClickSprite: {fileID: 21300000, guid: 8856595d47ee37449916b5815ebf2bcd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
